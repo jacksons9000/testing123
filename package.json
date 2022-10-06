@@ -1,0 +1,11 @@
+{
+  "name": "testing123",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jacksons9000/testing123.git",
+  "author": "Jackson Situ <jacksons@ensemble.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
