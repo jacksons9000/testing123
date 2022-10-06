@@ -6,6 +6,7 @@
   "author": "Jackson Situ <jacksons@ensemble.com>",
   "license": "MIT",
   "dependencies": {
+    "@pgatour/haskell-ui": "1.7.9",
     "axios": "^1.0.0",
     "lodash": "^4.17.21"
   }
